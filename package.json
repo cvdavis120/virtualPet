@@ -1,0 +1,22 @@
+{
+  "name": "virtualpet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvdavis120/virtualPet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvdavis120/virtualPet/issues"
+  },
+  "homepage": "https://github.com/cvdavis120/virtualPet#readme",
+  "dependencies": {
+    "inquirer": "^6.5.1"
+  }
+}
